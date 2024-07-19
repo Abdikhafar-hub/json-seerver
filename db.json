@@ -1,9 +1,30 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "partners": [
+    {
+      "name": "Fortune Sacco",
+      "image": "partner1.jpeg",
+      "description": "is dedicated to empowering communities by offering innovative financial solutions tailored to meet unique needs. With a commitment to building a brighter future, Salah Sacco provides comprehensive products and personalized services, ensuring financial stability and growth for all its members."
+    },
+    {
+      "name": "Harambee sacco",
+      "image": "partner2.jpg",
+      "description": "Harambee Sacco fosters economic growth and development by providing a wide range of financial products and services. Focused on enhancing financial inclusion, Yaska Sacco empowers its members with the tools and resources needed for financial independence and success, driving community prosperity."
+    },
+    {
+      "name": "Towers sacco",
+      "image": "partner3.png",
+      "description": "Towers sacco transforms lives with sustainable financial services designed for growth. Committed to fostering economic empowerment, Al-Islah Sacco partners with its members to achieve financial goals through innovative products, exceptional service, and integrity, ensuring a secure financial future."
+    },
+    {
+      "name": "Hongera Sacco",
+      "image": "partner4.png",
+      "description": "Hongera Sacco celebrates success by offering customized financial solutions for every member. With a focus on supporting financial journeys through expert advice and innovative services, Hongera Sacco empowers members to achieve their dreams and build a strong financial foundation"
+    },
+    {
+      "name": "Midnimo Limited",
+      "image": "partner5.jpeg",
+      "description": "Midnimo Limited unites communities through comprehensive financial solutions and exceptional service. By fostering economic stability and growth, Midnimo Limited provides secure, reliable, and tailored financial services that empower members to achieve financial success and independence."
+    }
+  ]
 }
+
